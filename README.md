@@ -1,4 +1,4 @@
-# Transistores
+# Transistor Calculator
 
 
 ## Conceito
